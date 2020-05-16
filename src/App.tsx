@@ -7,9 +7,9 @@ import { ClickerApp } from "./clickerApp/ClickerApp";
 
 function App() {
   const apps = [
-    // <TodoApp />,
+    <TodoApp />,
     // <ClickerApp />,
-    <ShopList />,
+    // <ShopList />,
   ];
   return (
     <div className="App">
